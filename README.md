@@ -5,8 +5,11 @@ Entrega do desafio DIO utilizando NotebookLM para criação de um caderno temát
 
 ## Fontes utilizadas Foram reunidas de 3 a 5 fontes abertas em texto/PDF sobre o tema:
 [folder_serie_II_orcamento_pessoal.pdf](https://github.com/user-attachments/files/24594027/folder_serie_II_orcamento_pessoal.pdf)
+
 [ce_ebook_finan_as_pessoais_1.pdf](https://github.com/user-attachments/files/24594025/ce_ebook_finan_as_pessoais_1.pdf)
+
 [caderno_cidadania_financeira.pdf](https://github.com/user-attachments/files/24594024/caderno_cidadania_financeira.pdf)
+
 https://www.investopedia.com/personal-finance-4427760
 
 ## Objetivos de estudo: 
